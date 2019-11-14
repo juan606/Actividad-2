@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion 1</string>
+    <string name="nombre_R">Name</string>
+    <string name="edad">Age</string>
+    <string name="correo">email</string>
+    <string name="fecha">date</string>
+    <string name="calcularF">calculate</string>
+    <string name="numero">"result ordering  "</string>
+    <string name="calcular">order data</string>
+    <string name="regresar">return</string>
+    <string name="Dato1">Digito 1</string>
+    <string name="Dato2">Digito 2</string>
+    <string name="Dato3">Digito 3</string>
+    <string name="Dato4">Digito 4</string>
+    <string name="Dato5">Digito 5</string>
+    <string name="Dato6">Digito 6</string>
+    <string name="Dato7">Digito 7</string>
+    <string name="Dato8">Digito 8</string>
+    <string name="Dato9">Digito 9</string>
+    <string name="Dato10">" Write the separated values ​​with \",\""</string>
+    <string name="Dato11">Digito 11</string>
+    <string name="Dato12">Digito 12</string>
+    <string name="Dato13">Digito 13</string>
+    <string name="Dato14">Digito 14</string>
+    <string name="Dato15">Digito 15</string>
+    <string name="Dato16">Digito 16</string>
+    <string name="Dato17">Digito  17</string>
+    <string name="Dato18">Digito 18</string>
+    <string name="Dato19">Digito 19</string>
+    <string name="Dato20">Digito 20</string>
+</resources>
